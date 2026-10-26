@@ -6,5 +6,7 @@ venv/
 *.log
 .steamlit/
 ml_model/
+jupyter notebooks/
+
 
 
